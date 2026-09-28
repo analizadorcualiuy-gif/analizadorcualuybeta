@@ -5,7 +5,7 @@ no requiere servidor, base de datos ni cuenta de usuario.
 
 ## Límites
 
-- 1 documento por proyecto.
+- 2 documentos por proyecto.
 - 10.000 palabras totales.
 - 4 categorías en total, incluidas las subcategorías.
 - Guardado y apertura de proyectos JSON.
