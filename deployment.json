@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "1.5.0-dev.20",
+    "version":  "1.5.0-dev.28",
     "limits":  {
                    "categories":  4,
                    "documents":  2,
                    "words":  10000
                },
-    "appSha256":  "BBA104ADCD3B4A55E9F38607DFD38A4FF04CC934BC8D229F7E48CF31C82793A5",
-    "id":  "934fd78abb4041e9849845f4a56efcdc",
+    "appSha256":  "4D08CF49BA7D0A9FAF2B673B98E10CE2B9B9F89F5C459EA630F53F395D515299",
+    "id":  "1229257c03ed4ae393c926797daf403d",
     "interface":  "workspace-reader-2",
     "edition":  "Beta",
-    "date":  "2026-11-03T00:43:20.0841956Z",
-    "previousCommit":  "5266465e2c97c377786feac78d2019fdf193eb82"
+    "date":  "2026-11-18T01:21:46.7295870Z",
+    "previousCommit":  "62769d86c6fab399760389ed4d01d26940215d32"
 }
